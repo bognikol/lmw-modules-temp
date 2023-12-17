@@ -45,7 +45,7 @@ eval("\nvar __awaiter = (this && this.__awaiter) || function (thisArg, _argument
   \****************************************/
 /***/ (function(__unused_webpack_module, exports, __webpack_require__) {
 
-eval("\nvar __importDefault = (this && this.__importDefault) || function (mod) {\n    return (mod && mod.__esModule) ? mod : { \"default\": mod };\n};\nObject.defineProperty(exports, \"__esModule\", ({ value: true }));\nvar client_1 = __importDefault(__webpack_require__(/*! react-dom/client */ \"./node_modules/react-dom/client.js\"));\nvar MapWidget_1 = __webpack_require__(/*! ./components/MapWidget */ \"./src/widgets/MapWidget/components/MapWidget.tsx\");\nclient_1.default.createRoot(document.getElementById(\"app\"));\nexports[\"default\"] = MapWidget_1.MapWidget;\n\n\n//# sourceURL=webpack://de-layout-manager-widgets/./src/widgets/MapWidget/index.ts?");
+eval("\nvar __importDefault = (this && this.__importDefault) || function (mod) {\n    return (mod && mod.__esModule) ? mod : { \"default\": mod };\n};\nObject.defineProperty(exports, \"__esModule\", ({ value: true }));\nvar client_1 = __importDefault(__webpack_require__(/*! react-dom/client */ \"./node_modules/react-dom/client.js\"));\nvar MapWidget_1 = __webpack_require__(/*! ./components/MapWidget */ \"./src/widgets/MapWidget/components/MapWidget.tsx\");\nclient_1.default.createRoot(document.getElementById(\"root\"));\nexports[\"default\"] = MapWidget_1.MapWidget;\n\n\n//# sourceURL=webpack://de-layout-manager-widgets/./src/widgets/MapWidget/index.ts?");
 
 /***/ })
 

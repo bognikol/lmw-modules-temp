@@ -45,7 +45,7 @@ eval("\nvar __awaiter = (this && this.__awaiter) || function (thisArg, _argument
   \**********************************************/
 /***/ (function(__unused_webpack_module, exports, __webpack_require__) {
 
-eval("\nvar __importDefault = (this && this.__importDefault) || function (mod) {\n    return (mod && mod.__esModule) ? mod : { \"default\": mod };\n};\nObject.defineProperty(exports, \"__esModule\", ({ value: true }));\nvar client_1 = __importDefault(__webpack_require__(/*! react-dom/client */ \"./node_modules/react-dom/client.js\"));\nvar HierarchyWidget_1 = __webpack_require__(/*! ./components/HierarchyWidget */ \"./src/widgets/HierarchyWidget/components/HierarchyWidget.tsx\");\nclient_1.default.createRoot(document.getElementById(\"app\"));\nexports[\"default\"] = HierarchyWidget_1.HierarchyWidget;\n\n\n//# sourceURL=webpack://de-layout-manager-widgets/./src/widgets/HierarchyWidget/index.ts?");
+eval("\nvar __importDefault = (this && this.__importDefault) || function (mod) {\n    return (mod && mod.__esModule) ? mod : { \"default\": mod };\n};\nObject.defineProperty(exports, \"__esModule\", ({ value: true }));\nvar client_1 = __importDefault(__webpack_require__(/*! react-dom/client */ \"./node_modules/react-dom/client.js\"));\nvar HierarchyWidget_1 = __webpack_require__(/*! ./components/HierarchyWidget */ \"./src/widgets/HierarchyWidget/components/HierarchyWidget.tsx\");\nclient_1.default.createRoot(document.getElementById(\"root\"));\nexports[\"default\"] = HierarchyWidget_1.HierarchyWidget;\n\n\n//# sourceURL=webpack://de-layout-manager-widgets/./src/widgets/HierarchyWidget/index.ts?");
 
 /***/ })
 
